@@ -1,0 +1,4 @@
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Model\bin\Debug\LGroup.Facade.Model.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Model\bin\Debug\LGroup.Facade.Model.pdb
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Model\obj\Debug\LGroup.Facade.Model.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Model\obj\Debug\LGroup.Facade.Model.pdb

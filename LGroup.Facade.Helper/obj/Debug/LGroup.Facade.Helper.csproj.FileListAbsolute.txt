@@ -1,0 +1,8 @@
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Helper\bin\Debug\LGroup.Facade.Helper.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Helper\bin\Debug\LGroup.Facade.Helper.pdb
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Helper\obj\Debug\LGroup.Facade.Helper.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.Helper\obj\Debug\LGroup.Facade.Helper.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.Helper\bin\Debug\LGroup.Facade.Helper.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.Helper\bin\Debug\LGroup.Facade.Helper.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.Helper\obj\Debug\LGroup.Facade.Helper.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.Helper\obj\Debug\LGroup.Facade.Helper.pdb

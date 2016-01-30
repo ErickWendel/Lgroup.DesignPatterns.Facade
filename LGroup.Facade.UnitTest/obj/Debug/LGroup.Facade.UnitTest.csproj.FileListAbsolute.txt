@@ -1,0 +1,28 @@
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\obj\Debug\LGroup.Facade.UnitTest.csprojResolveAssemblyReference.cache
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.UnitTest.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.UnitTest.pdb
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Business.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Helper.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Model.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\nunit.framework.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Business.pdb
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Helper.pdb
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Model.pdb
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\nunit.framework.xml
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\obj\Debug\LGroup.Facade.UnitTest.dll
+D:\LGroup\LGroupFacade\LGroup_Facade\LGroup.Facade.UnitTest\obj\Debug\LGroup.Facade.UnitTest.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.UnitTest.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.UnitTest.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Business.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Helper.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Model.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Business.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Helper.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.Model.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\nunit.framework.xml
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\obj\Debug\LGroup.Facade.UnitTest.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\obj\Debug\LGroup.Facade.UnitTest.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\obj\Debug\LGroup.Facade.UnitTest.pdb
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.dll
+\\vmware-host\Shared Folders\Desktop\LGroup_Facade\LGroup.Facade.UnitTest\bin\Debug\LGroup.Facade.pdb
